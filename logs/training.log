@@ -1,0 +1,1323 @@
+
+06:05:29 | Training epoch 1 ...
+------------------------------
+06:05:39 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.40
+06:05:50 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.35
+06:06:00 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.35
+06:06:10 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.33
+06:06:21 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.34
+
+06:06:23 | Evaluating epoch 1 ...
+------------------------------
+06:06:26 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.35
+06:06:30 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.34
+
+06:06:30 | Saving model ...
+
+[In] I want to go out tonight!
+[Out] 我不不.
+
+06:07:29 | Training epoch 1 ...
+------------------------------
+06:07:39 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.41
+06:07:50 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.35
+06:08:00 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.35
+06:08:10 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.34
+06:08:21 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.34
+
+06:08:22 | Evaluating epoch 1 ...
+------------------------------
+06:08:26 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.35
+06:08:29 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.34
+
+06:08:30 | Saving model ...
+
+06:08:32 | Training epoch 2 ...
+------------------------------
+06:08:42 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.33
+06:08:53 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.31
+06:09:03 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.31
+06:09:14 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.31
+06:09:24 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.31
+
+06:09:26 | Evaluating epoch 2 ...
+------------------------------
+06:09:29 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.35
+06:09:33 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.34
+
+06:09:34 | Training epoch 3 ...
+------------------------------
+06:09:44 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.32
+06:09:55 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.31
+06:10:05 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.31
+06:10:16 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.30
+06:10:26 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.30
+
+06:10:28 | Evaluating epoch 3 ...
+------------------------------
+06:10:31 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.37
+06:10:35 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:10:36 | Training epoch 4 ...
+------------------------------
+06:10:47 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.30
+06:10:57 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.29
+06:11:08 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.29
+06:11:18 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.27
+06:11:29 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.27
+
+06:11:30 | Evaluating epoch 4 ...
+------------------------------
+06:11:34 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.35
+06:11:38 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.35
+
+06:11:38 | Training epoch 5 ...
+------------------------------
+06:11:49 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.28
+06:11:59 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.27
+06:12:10 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.27
+06:12:20 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.26
+06:12:31 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.27
+
+06:12:32 | Evaluating epoch 5 ...
+------------------------------
+06:12:36 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.35
+06:12:40 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.35
+
+06:12:40 | Training epoch 6 ...
+------------------------------
+06:12:51 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.27
+06:13:02 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.25
+06:13:12 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.26
+06:13:22 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.25
+06:13:33 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.25
+
+06:13:35 | Evaluating epoch 6 ...
+------------------------------
+06:13:38 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:13:42 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.35
+
+06:13:43 | Training epoch 7 ...
+------------------------------
+06:13:53 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.25
+06:14:04 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.25
+06:14:14 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.24
+06:14:24 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.24
+06:14:35 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.24
+
+06:14:37 | Evaluating epoch 7 ...
+------------------------------
+06:14:40 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:14:44 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.35
+
+06:14:44 | Training epoch 8 ...
+------------------------------
+06:14:55 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.24
+06:15:06 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.23
+06:15:16 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.23
+06:15:26 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.23
+06:15:37 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.23
+
+06:15:39 | Evaluating epoch 8 ...
+------------------------------
+06:15:43 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:15:46 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:15:47 | Training epoch 9 ...
+------------------------------
+06:15:58 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.24
+06:16:08 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.24
+06:16:18 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.23
+06:16:28 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.23
+06:16:39 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.23
+
+06:16:41 | Evaluating epoch 9 ...
+------------------------------
+06:16:44 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:16:48 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:16:48 | Training epoch 10 ...
+------------------------------
+06:16:59 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.22
+06:17:09 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.22
+06:17:20 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.22
+06:17:30 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.21
+06:17:41 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.21
+
+06:17:42 | Evaluating epoch 10 ...
+------------------------------
+06:17:46 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:17:50 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.35
+
+06:17:50 | Training epoch 11 ...
+------------------------------
+06:18:01 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.21
+06:18:12 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.21
+06:18:22 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.21
+06:18:33 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.20
+06:18:44 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.21
+
+06:18:45 | Evaluating epoch 11 ...
+------------------------------
+06:18:49 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.36
+06:18:53 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:18:53 | Training epoch 12 ...
+------------------------------
+06:19:04 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.21
+06:19:14 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.20
+06:19:25 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.20
+06:19:36 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.20
+06:19:46 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.20
+
+06:19:48 | Evaluating epoch 12 ...
+------------------------------
+06:19:52 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.37
+06:19:55 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:19:56 | Training epoch 13 ...
+------------------------------
+06:20:07 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.20
+06:20:18 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.19
+06:20:28 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.19
+06:20:38 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.19
+06:20:49 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.19
+
+06:20:51 | Evaluating epoch 13 ...
+------------------------------
+06:20:55 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.37
+06:21:00 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:21:01 | Training epoch 14 ...
+------------------------------
+06:21:12 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.19
+06:21:22 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.19
+06:21:33 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.19
+06:21:44 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.19
+06:21:54 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.19
+
+06:21:56 | Evaluating epoch 14 ...
+------------------------------
+06:22:00 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.37
+06:22:03 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:22:04 | Training epoch 15 ...
+------------------------------
+06:22:15 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.19
+06:22:25 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.18
+06:22:36 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.18
+06:22:46 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.18
+06:22:57 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.18
+
+06:22:59 | Evaluating epoch 15 ...
+------------------------------
+06:23:02 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.37
+06:23:06 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.36
+
+06:23:06 | Training epoch 16 ...
+------------------------------
+06:23:17 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.18
+06:23:28 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.18
+06:23:38 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.18
+06:23:49 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.18
+06:23:59 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.18
+
+06:24:01 | Evaluating epoch 16 ...
+------------------------------
+06:24:05 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.38
+06:24:08 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.37
+
+06:24:09 | Training epoch 17 ...
+------------------------------
+06:24:19 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.18
+06:24:30 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.17
+06:24:40 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.17
+06:24:51 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.17
+06:25:02 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.17
+
+06:25:03 | Evaluating epoch 17 ...
+------------------------------
+06:25:07 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.38
+06:25:11 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.37
+
+06:25:11 | Training epoch 18 ...
+------------------------------
+06:25:22 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.17
+06:25:32 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.17
+06:25:43 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.17
+06:25:54 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.17
+06:26:05 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.17
+
+06:26:07 | Evaluating epoch 18 ...
+------------------------------
+06:26:11 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.38
+06:26:14 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.38
+
+06:26:15 | Training epoch 19 ...
+------------------------------
+06:26:26 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.17
+06:26:36 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.16
+06:26:47 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.16
+06:26:58 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.17
+06:27:08 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.16
+
+06:27:10 | Evaluating epoch 19 ...
+------------------------------
+06:27:14 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.39
+06:27:17 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.38
+
+06:27:18 | Training epoch 20 ...
+------------------------------
+06:27:29 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.17
+06:27:39 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.16
+06:27:50 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.16
+06:28:01 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.16
+06:28:12 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.16
+
+06:28:13 | Evaluating epoch 20 ...
+------------------------------
+06:28:17 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.39
+06:28:21 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.38
+
+06:28:21 | Training epoch 21 ...
+------------------------------
+06:28:32 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.16
+06:28:42 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.16
+06:28:52 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.16
+06:29:03 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.16
+06:29:13 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.16
+
+06:29:15 | Evaluating epoch 21 ...
+------------------------------
+06:29:19 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.39
+06:29:23 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.38
+
+06:29:24 | Training epoch 22 ...
+------------------------------
+06:29:34 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.16
+06:29:45 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.16
+06:29:55 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.16
+06:30:05 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.15
+06:30:16 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.16
+
+06:30:18 | Evaluating epoch 22 ...
+------------------------------
+06:30:21 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.39
+06:30:25 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.39
+
+06:30:26 | Training epoch 23 ...
+------------------------------
+06:30:36 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.15
+06:30:46 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.15
+06:30:57 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.15
+06:31:07 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.15
+06:31:18 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.15
+
+06:31:20 | Evaluating epoch 23 ...
+------------------------------
+06:31:23 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.40
+06:31:27 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.39
+
+06:31:28 | Training epoch 24 ...
+------------------------------
+06:31:39 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.15
+06:31:49 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.15
+06:31:59 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.15
+06:32:10 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.15
+06:32:20 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.15
+
+06:32:22 | Evaluating epoch 24 ...
+------------------------------
+06:32:25 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.40
+06:32:29 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.39
+
+06:32:30 | Training epoch 25 ...
+------------------------------
+06:32:40 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.15
+06:32:51 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.15
+06:33:01 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.15
+06:33:12 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:33:23 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.15
+
+06:33:24 | Evaluating epoch 25 ...
+------------------------------
+06:33:28 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.40
+06:33:31 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.40
+
+06:33:32 | Training epoch 26 ...
+------------------------------
+06:33:42 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.15
+06:33:53 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.15
+06:34:03 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.15
+06:34:14 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:34:25 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.15
+
+06:34:26 | Evaluating epoch 26 ...
+------------------------------
+06:34:30 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.41
+06:34:34 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.40
+
+06:34:34 | Training epoch 27 ...
+------------------------------
+06:34:45 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.15
+06:34:56 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:35:06 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:35:16 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:35:27 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:35:28 | Evaluating epoch 27 ...
+------------------------------
+06:35:32 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.41
+06:35:36 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.40
+
+06:35:37 | Training epoch 28 ...
+------------------------------
+06:35:47 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:35:58 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:36:09 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:36:19 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:36:30 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:36:31 | Evaluating epoch 28 ...
+------------------------------
+06:36:35 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.41
+06:36:39 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.40
+
+06:36:40 | Training epoch 29 ...
+------------------------------
+06:36:50 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:37:01 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:37:11 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:37:22 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:37:32 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:37:34 | Evaluating epoch 29 ...
+------------------------------
+06:37:37 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.42
+06:37:41 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.41
+
+06:37:42 | Training epoch 30 ...
+------------------------------
+06:37:52 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:38:03 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:38:13 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:38:24 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:38:34 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:38:36 | Evaluating epoch 30 ...
+------------------------------
+06:38:40 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.42
+06:38:43 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.41
+
+06:38:44 | Training epoch 31 ...
+------------------------------
+06:38:54 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:39:04 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:39:15 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:39:26 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:39:37 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:39:39 | Evaluating epoch 31 ...
+------------------------------
+06:39:42 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.42
+06:39:46 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.41
+
+06:39:47 | Training epoch 32 ...
+------------------------------
+06:39:57 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:40:07 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:40:18 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:40:29 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:40:39 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:40:41 | Evaluating epoch 32 ...
+------------------------------
+06:40:44 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.42
+06:40:48 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.41
+
+06:40:49 | Training epoch 33 ...
+------------------------------
+06:40:59 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:41:09 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.14
+06:41:20 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:41:31 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.14
+06:41:41 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:41:43 | Evaluating epoch 33 ...
+------------------------------
+06:41:46 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.42
+06:41:50 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.42
+
+06:41:51 | Training epoch 34 ...
+------------------------------
+06:42:01 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:42:12 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:42:22 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:42:32 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:42:43 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.14
+
+06:42:45 | Evaluating epoch 34 ...
+------------------------------
+06:42:48 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.43
+06:42:52 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.42
+
+06:42:53 | Training epoch 35 ...
+------------------------------
+06:43:03 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.14
+06:43:13 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:43:24 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.14
+06:43:34 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:43:44 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:43:46 | Evaluating epoch 35 ...
+------------------------------
+06:43:50 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.43
+06:43:53 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.42
+
+06:43:54 | Training epoch 36 ...
+------------------------------
+06:44:04 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:44:15 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:44:25 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:44:35 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:44:46 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:44:48 | Evaluating epoch 36 ...
+------------------------------
+06:44:51 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.43
+06:44:55 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.42
+
+06:44:56 | Training epoch 37 ...
+------------------------------
+06:45:06 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:45:16 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:45:27 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:45:37 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:45:48 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:45:49 | Evaluating epoch 37 ...
+------------------------------
+06:45:53 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.43
+06:45:57 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.43
+
+06:45:58 | Training epoch 38 ...
+------------------------------
+06:46:08 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:46:19 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:46:30 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:46:40 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:46:51 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:46:53 | Evaluating epoch 38 ...
+------------------------------
+06:46:56 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.44
+06:47:00 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.43
+
+06:47:01 | Training epoch 39 ...
+------------------------------
+06:47:11 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:47:22 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:47:32 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:47:42 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:47:53 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:47:54 | Evaluating epoch 39 ...
+------------------------------
+06:47:58 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.44
+06:48:02 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.43
+
+06:48:02 | Training epoch 40 ...
+------------------------------
+06:48:13 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:48:23 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:48:34 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:48:44 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:48:55 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:48:56 | Evaluating epoch 40 ...
+------------------------------
+06:49:00 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.44
+06:49:04 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.43
+
+06:49:05 | Training epoch 41 ...
+------------------------------
+06:49:15 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:49:26 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:49:36 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:49:46 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:49:57 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:49:59 | Evaluating epoch 41 ...
+------------------------------
+06:50:02 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.44
+06:50:06 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.43
+
+06:50:07 | Training epoch 42 ...
+------------------------------
+06:50:17 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:50:28 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:50:38 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:50:49 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:51:00 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:51:01 | Evaluating epoch 42 ...
+------------------------------
+06:51:05 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.45
+06:51:08 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.44
+
+06:51:09 | Training epoch 43 ...
+------------------------------
+06:51:19 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:51:30 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.13
+06:51:40 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:51:50 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:52:05 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:52:07 | Evaluating epoch 43 ...
+------------------------------
+06:52:10 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.45
+06:52:14 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.44
+
+06:52:15 | Training epoch 44 ...
+------------------------------
+06:52:25 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:52:36 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:52:46 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:52:56 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:53:06 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:53:08 | Evaluating epoch 44 ...
+------------------------------
+06:53:11 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.45
+06:53:15 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.44
+
+06:53:16 | Training epoch 45 ...
+------------------------------
+06:53:26 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:53:37 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:53:47 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+06:53:58 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:54:08 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:54:10 | Evaluating epoch 45 ...
+------------------------------
+06:54:13 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.45
+06:54:17 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.44
+
+06:54:18 | Training epoch 46 ...
+------------------------------
+06:54:28 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:54:39 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:54:49 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+06:55:00 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:55:10 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:55:12 | Evaluating epoch 46 ...
+------------------------------
+06:55:16 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.45
+06:55:19 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.44
+
+06:55:20 | Training epoch 47 ...
+------------------------------
+06:55:30 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:55:41 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:55:52 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+06:56:02 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:56:12 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:56:14 | Evaluating epoch 47 ...
+------------------------------
+06:56:17 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+06:56:21 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+06:56:22 | Training epoch 48 ...
+------------------------------
+06:56:32 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:56:42 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:56:52 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+06:57:03 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:57:13 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.13
+
+06:57:15 | Evaluating epoch 48 ...
+------------------------------
+06:57:18 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+06:57:22 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+06:57:23 | Training epoch 49 ...
+------------------------------
+06:57:33 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.13
+06:57:44 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:57:54 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.13
+06:58:04 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.13
+06:58:15 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:58:16 | Evaluating epoch 49 ...
+------------------------------
+06:58:20 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+06:58:24 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+06:58:25 | Training epoch 50 ...
+------------------------------
+06:58:35 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:58:45 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:58:56 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+06:59:06 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+06:59:17 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+06:59:18 | Evaluating epoch 50 ...
+------------------------------
+06:59:22 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+06:59:26 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+06:59:26 | Training epoch 51 ...
+------------------------------
+06:59:37 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+06:59:48 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+06:59:58 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:00:09 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:00:19 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:00:21 | Evaluating epoch 51 ...
+------------------------------
+07:00:24 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+07:00:28 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+07:00:29 | Training epoch 52 ...
+------------------------------
+07:00:39 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:00:50 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:01:00 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:01:10 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:01:21 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:01:23 | Evaluating epoch 52 ...
+------------------------------
+07:01:26 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.46
+07:01:30 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.45
+
+07:01:31 | Training epoch 53 ...
+------------------------------
+07:01:41 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:01:52 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:02:02 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:02:12 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:02:23 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:02:25 | Evaluating epoch 53 ...
+------------------------------
+07:02:29 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.47
+07:02:32 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.46
+
+07:02:33 | Training epoch 54 ...
+------------------------------
+07:02:44 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:02:54 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:03:05 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:03:15 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:03:25 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:03:27 | Evaluating epoch 54 ...
+------------------------------
+07:03:31 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.47
+07:03:34 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.46
+
+07:03:35 | Training epoch 55 ...
+------------------------------
+07:03:45 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:03:56 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:04:06 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:04:17 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:04:27 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:04:29 | Evaluating epoch 55 ...
+------------------------------
+07:04:32 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.47
+07:04:36 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.46
+
+07:04:37 | Training epoch 56 ...
+------------------------------
+07:04:48 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:04:58 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:05:08 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:05:19 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:05:29 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:05:31 | Evaluating epoch 56 ...
+------------------------------
+07:05:35 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.47
+07:05:38 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.46
+
+07:05:39 | Training epoch 57 ...
+------------------------------
+07:05:49 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:06:00 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:06:10 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:06:20 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:06:31 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:06:32 | Evaluating epoch 57 ...
+------------------------------
+07:06:36 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:06:40 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.47
+
+07:06:40 | Training epoch 58 ...
+------------------------------
+07:06:51 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:07:01 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:07:12 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:07:22 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:07:33 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:07:35 | Evaluating epoch 58 ...
+------------------------------
+07:07:38 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:07:42 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.47
+
+07:07:43 | Training epoch 59 ...
+------------------------------
+07:07:53 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:08:04 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.12
+07:08:14 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:08:25 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.12
+07:08:35 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:08:37 | Evaluating epoch 59 ...
+------------------------------
+07:08:41 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:08:44 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.47
+
+07:08:45 | Training epoch 60 ...
+------------------------------
+07:08:56 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:09:06 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:09:17 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:09:27 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:09:38 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:09:40 | Evaluating epoch 60 ...
+------------------------------
+07:09:43 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:09:47 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.47
+
+07:09:48 | Training epoch 61 ...
+------------------------------
+07:09:58 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:10:09 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:10:19 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:10:29 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:10:40 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:10:41 | Evaluating epoch 61 ...
+------------------------------
+07:10:45 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:10:49 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.47
+
+07:10:49 | Training epoch 62 ...
+------------------------------
+07:11:00 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:11:10 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:11:21 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:11:31 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:11:41 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:11:43 | Evaluating epoch 62 ...
+------------------------------
+07:11:47 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.48
+07:11:50 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:11:51 | Training epoch 63 ...
+------------------------------
+07:12:02 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:12:12 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:12:22 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:12:32 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:12:43 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:12:45 | Evaluating epoch 63 ...
+------------------------------
+07:12:48 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:12:52 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:12:52 | Training epoch 64 ...
+------------------------------
+07:13:03 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:13:13 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:13:23 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:13:34 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:13:44 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:13:46 | Evaluating epoch 64 ...
+------------------------------
+07:13:50 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:13:53 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:13:54 | Training epoch 65 ...
+------------------------------
+07:14:04 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:14:14 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:14:25 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:14:35 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:14:46 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.12
+
+07:14:47 | Evaluating epoch 65 ...
+------------------------------
+07:14:51 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:14:54 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:14:55 | Training epoch 66 ...
+------------------------------
+07:15:06 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.12
+07:15:16 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:15:27 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.12
+07:15:38 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:15:48 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:15:50 | Evaluating epoch 66 ...
+------------------------------
+07:15:54 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:15:58 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:15:58 | Training epoch 67 ...
+------------------------------
+07:16:09 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:16:19 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:16:29 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:16:40 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:16:51 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:16:52 | Evaluating epoch 67 ...
+------------------------------
+07:16:56 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:16:59 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:17:00 | Training epoch 68 ...
+------------------------------
+07:17:10 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:17:21 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:17:31 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:17:42 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:17:52 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:17:54 | Evaluating epoch 68 ...
+------------------------------
+07:17:57 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.49
+07:18:01 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.48
+
+07:18:02 | Training epoch 69 ...
+------------------------------
+07:18:12 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:18:23 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:18:33 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:18:43 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:18:54 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:18:55 | Evaluating epoch 69 ...
+------------------------------
+07:18:59 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.50
+07:19:02 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.49
+
+07:19:03 | Training epoch 70 ...
+------------------------------
+07:19:13 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:19:24 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:19:34 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:19:44 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:19:55 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:19:56 | Evaluating epoch 70 ...
+------------------------------
+07:20:00 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.50
+07:20:03 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.49
+
+07:20:04 | Training epoch 71 ...
+------------------------------
+07:20:15 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:20:25 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:20:35 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:20:46 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:20:56 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:20:58 | Evaluating epoch 71 ...
+------------------------------
+07:21:02 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.50
+07:21:05 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.49
+
+07:21:06 | Training epoch 72 ...
+------------------------------
+07:21:17 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:21:28 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:21:38 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:21:48 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:21:59 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:22:01 | Evaluating epoch 72 ...
+------------------------------
+07:22:04 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.50
+07:22:08 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.49
+
+07:22:08 | Training epoch 73 ...
+------------------------------
+07:22:19 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:22:29 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:22:39 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:22:50 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:23:00 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:23:02 | Evaluating epoch 73 ...
+------------------------------
+07:23:05 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.50
+07:23:09 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.49
+
+07:23:10 | Training epoch 74 ...
+------------------------------
+07:23:20 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:23:31 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:23:41 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:23:51 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:24:02 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:24:04 | Evaluating epoch 74 ...
+------------------------------
+07:24:07 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.51
+07:24:11 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.50
+
+07:24:12 | Training epoch 75 ...
+------------------------------
+07:24:22 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:24:32 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:24:43 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:24:54 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:25:04 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:25:06 | Evaluating epoch 75 ...
+------------------------------
+07:25:09 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.51
+07:25:13 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.50
+
+07:25:14 | Training epoch 76 ...
+------------------------------
+07:25:24 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:25:34 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:25:45 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:25:55 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:26:06 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:26:08 | Evaluating epoch 76 ...
+------------------------------
+07:26:11 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.51
+07:26:15 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.50
+
+07:26:15 | Training epoch 77 ...
+------------------------------
+07:26:26 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:26:36 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:26:47 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:26:57 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:27:08 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:27:09 | Evaluating epoch 77 ...
+------------------------------
+07:27:13 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.51
+07:27:16 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.50
+
+07:27:17 | Training epoch 78 ...
+------------------------------
+07:27:28 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:27:38 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:27:48 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:27:59 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:28:09 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:28:11 | Evaluating epoch 78 ...
+------------------------------
+07:28:15 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:28:19 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:28:19 | Training epoch 79 ...
+------------------------------
+07:28:30 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:28:40 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:28:50 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:29:01 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:29:11 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:29:13 | Evaluating epoch 79 ...
+------------------------------
+07:29:16 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:29:20 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.50
+
+07:29:21 | Training epoch 80 ...
+------------------------------
+07:29:31 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:29:42 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:29:52 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:30:02 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:30:13 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:30:14 | Evaluating epoch 80 ...
+------------------------------
+07:30:18 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:30:22 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:30:23 | Training epoch 81 ...
+------------------------------
+07:30:33 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:30:43 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:30:54 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:31:05 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:31:15 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:31:17 | Evaluating epoch 81 ...
+------------------------------
+07:31:21 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:31:24 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:31:25 | Training epoch 82 ...
+------------------------------
+07:31:35 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:31:46 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:31:56 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:32:07 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:32:17 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:32:19 | Evaluating epoch 82 ...
+------------------------------
+07:32:23 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:32:26 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:32:27 | Training epoch 83 ...
+------------------------------
+07:32:38 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:32:48 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:32:58 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:33:09 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:33:19 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:33:21 | Evaluating epoch 83 ...
+------------------------------
+07:33:24 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.52
+07:33:28 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:33:29 | Training epoch 84 ...
+------------------------------
+07:33:39 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:33:50 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.11
+07:34:00 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:34:11 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:34:21 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:34:23 | Evaluating epoch 84 ...
+------------------------------
+07:34:27 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:34:30 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.51
+
+07:34:31 | Training epoch 85 ...
+------------------------------
+07:34:41 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:34:52 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:35:03 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:35:13 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:35:24 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:35:26 | Evaluating epoch 85 ...
+------------------------------
+07:35:29 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:35:33 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:35:34 | Training epoch 86 ...
+------------------------------
+07:35:44 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:35:55 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:36:05 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:36:16 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:36:26 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:36:28 | Evaluating epoch 86 ...
+------------------------------
+07:36:32 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:36:35 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:36:36 | Training epoch 87 ...
+------------------------------
+07:36:46 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:36:57 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:37:07 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:37:18 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:37:28 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:37:30 | Evaluating epoch 87 ...
+------------------------------
+07:37:34 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:37:37 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:37:38 | Training epoch 88 ...
+------------------------------
+07:37:49 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:37:59 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:38:10 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:38:20 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:38:30 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:38:32 | Evaluating epoch 88 ...
+------------------------------
+07:38:36 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:38:39 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:38:40 | Training epoch 89 ...
+------------------------------
+07:38:50 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:39:01 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:39:11 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:39:22 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.11
+07:39:32 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:39:34 | Evaluating epoch 89 ...
+------------------------------
+07:39:38 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.53
+07:39:41 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:39:42 | Training epoch 90 ...
+------------------------------
+07:39:53 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.11
+07:40:03 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:40:14 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.11
+07:40:24 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:40:35 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:40:36 | Evaluating epoch 90 ...
+------------------------------
+07:40:40 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.54
+07:40:44 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:40:45 | Training epoch 91 ...
+------------------------------
+07:40:55 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:41:05 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:41:16 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:41:26 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:41:37 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.11
+
+07:41:39 | Evaluating epoch 91 ...
+------------------------------
+07:41:42 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.54
+07:41:46 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:41:47 | Training epoch 92 ...
+------------------------------
+07:41:57 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:42:08 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:42:18 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:42:29 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:42:39 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:42:41 | Evaluating epoch 92 ...
+------------------------------
+07:42:45 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.54
+07:42:48 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.52
+
+07:42:49 | Training epoch 93 ...
+------------------------------
+07:43:00 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:43:11 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:43:21 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:43:32 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:43:42 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:43:44 | Evaluating epoch 93 ...
+------------------------------
+07:43:47 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.54
+07:43:51 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:43:52 | Training epoch 94 ...
+------------------------------
+07:44:02 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:44:13 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:44:23 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:44:34 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:44:44 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:44:46 | Evaluating epoch 94 ...
+------------------------------
+07:44:50 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.55
+07:44:53 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:44:54 | Training epoch 95 ...
+------------------------------
+07:45:05 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:45:15 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:45:26 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:45:36 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:45:47 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:45:48 | Evaluating epoch 95 ...
+------------------------------
+07:45:52 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.55
+07:45:56 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:45:56 | Training epoch 96 ...
+------------------------------
+07:46:07 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:46:18 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:46:28 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:46:38 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:46:49 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:46:51 | Evaluating epoch 96 ...
+------------------------------
+07:46:54 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.55
+07:46:58 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:46:59 | Training epoch 97 ...
+------------------------------
+07:47:09 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:47:20 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:47:30 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:47:40 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:47:51 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:47:52 | Evaluating epoch 97 ...
+------------------------------
+07:47:56 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.54
+07:48:00 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:48:00 | Training epoch 98 ...
+------------------------------
+07:48:11 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:48:21 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:48:31 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:48:42 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:48:53 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:48:54 | Evaluating epoch 98 ...
+------------------------------
+07:48:58 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.55
+07:49:02 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.53
+
+07:49:02 | Training epoch 99 ...
+------------------------------
+07:49:12 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:49:23 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:49:33 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:49:44 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:49:54 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:49:56 | Evaluating epoch 99 ...
+------------------------------
+07:50:00 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.55
+07:50:03 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.54
+
+07:50:04 | Training epoch 100 ...
+------------------------------
+07:50:14 | Finished 19.5% | Mini-batch 101 | Avg Loss:  0.10
+07:50:24 | Finished 38.9% | Mini-batch 201 | Avg Loss:  0.10
+07:50:35 | Finished 58.2% | Mini-batch 301 | Avg Loss:  0.10
+07:50:45 | Finished 77.6% | Mini-batch 401 | Avg Loss:  0.10
+07:50:55 | Finished 96.9% | Mini-batch 501 | Avg Loss:  0.10
+
+07:50:57 | Evaluating epoch 100 ...
+------------------------------
+07:51:01 | Finished 45.5% | Mini-batch 101 | Avg Loss:  0.56
+07:51:05 | Finished 90.5% | Mini-batch 201 | Avg Loss:  0.54
+
+[In] I want to go out tonight!
+[Out] 比起希望我打算打算打算外出.
